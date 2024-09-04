@@ -1,8 +1,18 @@
-# 👨‍💻 [Your Name] - Cybersecurity Professional
+# 👨‍💻 Mahar Hassain K K - Cybersecurity Professional
 
-Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and threat hunting. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
+Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC Analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
 
-## 🏆 TryHackMe Badge
+## 🔐 About Me
+
+- **Name:** Mahar Hassain K K
+- **Role:** Cybersecurity Professional | SOC Analyst | Penetration Tester
+- **Experience:** 1 years in Cybersecurity
+- **Location:** Kerala, India
+- **Email:** Maharkk01@gmail.com
+- **LinkedIn:** [Maharkk](https://www.linkedin.com/in/maharkk/)
+- **Medium Blog/Writeups:** [Maharkk](https://medium.com/@maharkk01)
+
+## 🏆 TryHackMe
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
@@ -10,7 +20,7 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
  
 🏆= Rank  🚪= Rooms Completed  🎯= Badges Earned
 
-## 🏅 Notable Badges Acquired
+🏅**Notable Badges Acquired**
 
 <div align="center">
     <figure style="display: inline-block; text-align: center; margin: 10px;">
@@ -45,36 +55,21 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
     </figure>
 </div>
 
-
-
-## 🔐 About Me
-
-- **Name:** [Your Name]
-- **Role:** Cybersecurity Professional | SOC Analyst | Penetration Tester
-- **Experience:** [X years/months] in Cybersecurity
-- **Certifications:** [List of certifications (e.g., CompTIA Security+, CEH, OSCP, etc.)]
-- **Location:** [Your Location]
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Medium Blog:** [Your Medium Profile](https://medium.com/@yourusername)
-- **Website/Blog:** [Your Website or Blog](https://yourwebsite.com/)
-
 ## 🛠️ Skills
 
 ### 🔍 Cybersecurity Skills
-- **Penetration Testing:** [Tools like Metasploit, Burp Suite, Nmap, etc.]
-- **Threat Hunting:** [Threat Hunting techniques and tools]
-- **Incident Response:** [Experience with incident handling and response]
-- **Vulnerability Assessment:** [Experience with vulnerability scanning and assessment]
-- **Security Operations:** [SIEM, SOC monitoring, log analysis]
+- **Penetration Testing:** Tools like Metasploit, Burp Suite, Nmap, etc.
+- **Threat Hunting:** Threat Hunting techniques and tools
+- **Incident Response:** Experience with incident handling and response
+- **Vulnerability Assessment:** Experience with vulnerability scanning and assessment
+- **Security Operations:** SIEM, SOC monitoring, log analysis
 
 ### 💻 Programming & Scripting
-- **Languages:** [Python, Bash, PowerShell, etc.]
-- **Automation:** [Automation of security tasks with scripts]
+- **Languages:** Python, Bash, PowerShell, etc.
 
 ### 🖥️ Operating Systems
-- **Linux:** [Experience with various Linux distributions]
-- **Windows:** [Experience with Windows environments]
+- **Linux:** Experience with various Linux distributions
+- **Windows:** Experience with Windows environments
 
 ## 🗂️ Projects
 
@@ -110,21 +105,20 @@ I'm always looking to improve my skills and stay updated with the latest trends 
 
 - **Advanced Penetration Testing**
 - **Cloud Security**
-- **Digital Forensics**
+- **DevSecOps**
 - **Threat Intelligence**
 
 ## 🏆 Achievements
 
-- **[Achievement Title]** - [Description of the achievement]
-- **[Achievement Title]** - [Description of the achievement]
+- **Top 7% on TryHackMe** - [Description of the achievement]
+- **[Achievement Title** - [Description of the achievement]
 - **[Achievement Title]** - [Description of the achievement]
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing cybersecurity, sharing knowledge, and collaborating on projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile/), [Email](mailto:your.email@example.com), or [Medium](https://medium.com/@yourusername).
+I'm always open to discussing cybersecurity, sharing knowledge, and collaborating on projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maharkk/), [Email](mailto:maharkk01@gmail.com), or [Medium](https://medium.com/@maharkk01).
 
 ---
 
 *This portfolio is a work in progress, and I will continue to update it with new projects, skills, and certifications as I grow in my cybersecurity career.*
 
->>>>>>> 0d37d704a972441d648af2a64f084a964844e4c7
