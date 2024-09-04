@@ -6,9 +6,35 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
-![TryHackMe Badge](tryhackmebadge.png)
+![TryHackMe Badge](TryHackMe_Badges/tryhackmebadge.png)
  
 🏆= Rank  🚪= Rooms Completed  🎯= Badges Earned
+
+## 🏅 Notable Badges Acquired
+
+<div align="center">
+    <figure>
+        <a href=https://tryhackme.com/Maharkk/badges/90-day-streak>
+            <img src="TryHackMe_Badges/streak90.svg" alt="TryHackMe Badge" height="120">
+        </a>
+        <figcaption>90 Day Streak</figcaption>
+     <figcaption>90 Day Streak</figcaption>
+    </figure>
+
+    <figure>
+        <a href="https://tryhackme.com/your-streak-badge-url">
+            <img src="your-streak-badge.png" alt="TryHackMe Streak Badge" height="120">
+        </a>
+        <figcaption>Streak Badge</figcaption>
+    </figure>
+
+    <figure>
+        <a href="https://tryhackme.com/your-another-badge-url">
+            <img src="your-another-badge.png" alt="Another Badge" height="120">
+        </a>
+        <figcaption>Another Badge</figcaption>
+    </figure>
+</div>
 
 
 
