@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Portfolio
-=======
 # 👨‍💻 [Your Name] - Cybersecurity Professional
 
 Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and threat hunting. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
