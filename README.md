@@ -13,29 +13,37 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 ## 🏅 Notable Badges Acquired
 
 <div align="center">
-    <figure>
-        <a href=https://tryhackme.com/Maharkk/badges/90-day-streak>
-            <img src="TryHackMe_Badges/streak90.svg" alt="TryHackMe Badge" height="120">
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/90-day-streak">
+            <img src="TryHackMe_Badges/streak90.svg" alt="TryHackMe Streak Badge" height="120">
         </a>
         <figcaption>90 Day Streak</figcaption>
-     <figcaption>90 Day Streak</figcaption>
     </figure>
-
-    <figure>
-        <a href="https://tryhackme.com/your-streak-badge-url">
-            <img src="your-streak-badge.png" alt="TryHackMe Streak Badge" height="120">
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/owasp-10">
+            <img src="TryHackMe_Badges/owasptop10.svg" alt="TryHackMe OWASP Badge" height="120">
         </a>
-        <figcaption>Streak Badge</figcaption>
+        <figcaption>Owasp Top 10</figcaption>
     </figure>
-
-    <figure>
-        <a href="https://tryhackme.com/your-another-badge-url">
-            <img src="your-another-badge.png" alt="Another Badge" height="120">
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/mr-robot">
+            <img src="TryHackMe_Badges/mrrobot.svg" alt="TryHackMe Mr. Robot Badge" height="120">
         </a>
-        <figcaption>Another Badge</figcaption>
+        <figcaption>Mr. Robot</figcaption>
+    </figure>
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/linux-privesc">
+            <img src="TryHackMe_Badges/linuxprivesc.svg" alt="TryHackMe Linuxpriesc Badge" height="120">
+        </a>
+        <figcaption>Linuxpriesc</figcaption>
+    </figure>
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/hash-cracker">
+            <img src="TryHackMe_Badges/hashcracker.svg" alt="TryHackMe Hash Cracker Badge" height="120">
+        </a>
+        <figcaption>Hash Cracker</figcaption>
     </figure>
 </div>
-
 
 
 
