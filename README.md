@@ -111,7 +111,9 @@ I'm always looking to improve my skills and stay updated with the latest trends 
 ## 🏆 Achievements
 
 - **Top 7% on TryHackMe** - [Description of the achievement]
-- **[Achievement Title** - [Description of the achievement]
+- **UHRS** - 
+Demonstrated dedication to meticulous work in data analysis and security, successfully completed over 5,000 tasks within the Universal Human Relevance System, and received incentives for the successful completion of bug bounties and data labelling tasks.
+
 - **[Achievement Title]** - [Description of the achievement]
 
 ## 🤝 Let's Connect
