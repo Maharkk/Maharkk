@@ -109,7 +109,7 @@ Duration: 6 months
 
 - **Learn Ethical Hacking From Scratch 2024** 
   - *zSecurity, Udemy* - 2024
-  - [Learn Ethical Hacking From Scratch 2024](https://www.udemy.com/certificate/UC-a9e20ef9-f8e6-4189-a9e8-e121a409daf9/))
+  - [Learn Ethical Hacking From Scratch 2024](https://www.udemy.com/certificate/UC-a9e20ef9-f8e6-4189-a9e8-e121a409daf9/)
 
 - **SOC Level 1** 
   - *TryHackMe* - 2024
