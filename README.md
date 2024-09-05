@@ -12,6 +12,23 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 - **LinkedIn:** [Maharkk](https://www.linkedin.com/in/maharkk/)
 - **Medium Blog/Writeups:** [Maharkk](https://medium.com/@maharkk01)
 
+## Education 🎓
+
+**B.Tech in Computer Science (Honors), Major: Cybersecurity**  
+Lovely Professional University, Punjab, India  
+Graduated: 2023  
+CGPA: 7.41 / 10  
+
+## Experience 💼
+
+**SOC Analyst & Pen Tester Trainee**  
+Red Team Hacker Academy, Kerala, India  
+Duration: 6 months  
+
+- Gained hands-on experience in security operations, monitoring, incident response, and penetration testing.
+- Conducted vulnerability assessments and simulated attacks to evaluate system security.
+- Worked with various tools and techniques for threat detection, analysis, and ethical hacking.
+
 ## 🏆 TryHackMe
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
@@ -90,15 +107,58 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 
 ## 🎓 Certifications
 
-- **[Certification Name]** - [Issuing Organization] - [Year]
-- **[Certification Name]** - [Issuing Organization] - [Year]
-- **[Certification Name]** - [Issuing Organization] - [Year]
+- **Learn Ethical Hacking From Scratch 2024** 
+  - *zSecurity, Udemy* - 2024
+  - ![Learn Ethical Hacking From Scratch 2024](path/to/certificate-image1.png) <!-- Replace with the actual path to your certificate image -->
 
-## 📜 Blogs & Write-Ups
+- **SOC Level 1** 
+  - *TryHackMe* - 2024
+  - ![SOC Level 1](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
 
-- **[Blog Post Title]** - [Brief description] - [Link to the blog post]
-- **[Write-Up Title]** - [Brief description] - [Link to the write-up]
+- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** 
+  - *Red Team Hacker Academy* - 2024
+  - ![Certified IT Infrastructure and Cyber SOC Analyst V3](path/to/certificate-image3.png) <!-- Replace with the actual path to your certificate image -->
 
+## 🏆 Achievements
+
+<details>
+  <summary>Top 7% on TryHackMe</summary>
+  <ul>
+    <li><strong>Rank:</strong> Achieved a position in the top 7% of users globally.</li>
+    <li><strong>Level:</strong> Currently at Level 8: Hacker, working towards the next level, Omni.</li>
+    <li><strong>Highlights:</strong> Successfully completed various learning paths, maintained a consistent streak for over three months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>UHRS (Universal Human Relevance System)</summary>
+  <ul>
+    <li><strong>Tasks Completed:</strong> Over 5,000 tasks.</li>
+    <li><strong>Skills Demonstrated:</strong> Data analysis, security, and attention to detail.</li>
+    <li><strong>Recognition:</strong> Received incentives for the successful completion of bug bounties and data labeling tasks, showcasing my commitment to meticulous work.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>EPAM Systems</summary>
+  <ul>
+    <li><strong>Internship Duration:</strong> 6 months.</li>
+    <li><strong>Focus Areas:</strong> Cloud technologies and DevOps practices.</li>
+    <li><strong>Skills Acquired:</strong> Enhanced proficiency in Agile Methods, AWS, Docker, Terraform, and other cloud and DevOps tools.</li>
+    <li><strong>Experience:</strong> Gained hands-on experience and contributed to real-world projects, improving my understanding of cloud infrastructure and development practices.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>TCS NQT (National Qualifier Test)</summary>
+  <ul>
+    <li><strong>Conducted By:</strong> Tata Consultancy Services (TCS).</li>
+    <li><strong>Assessment Areas:</strong> Quantitative and verbal abilities, programming logic, and coding skills.</li>
+    <li><strong>Score:</strong> 1262.58/1800 (70.14%).</li>
+    <li><strong>Overview:</strong> The TCS NQT provides a comprehensive evaluation for candidates, testing their skills and potential in various areas relevant to the tech industry.</li>
+  </ul>
+</details>
+  
 ## 🌱 Learning & Development
 
 I'm always looking to improve my skills and stay updated with the latest trends in cybersecurity. Here are some of the areas I'm currently focusing on:
@@ -107,14 +167,14 @@ I'm always looking to improve my skills and stay updated with the latest trends 
 - **Cloud Security**
 - **DevSecOps**
 - **Threat Intelligence**
+- **Attacking and Defending AWS**
+  
+## 📜 Blogs & Write-Ups
 
-## 🏆 Achievements
-
-- **Top 7% on TryHackMe** - [Description of the achievement]
-- **UHRS** - 
-Demonstrated dedication to meticulous work in data analysis and security, successfully completed over 5,000 tasks within the Universal Human Relevance System, and received incentives for the successful completion of bug bounties and data labelling tasks.
-
-- **[Achievement Title]** - [Description of the achievement]
+- **How TryHackMe Transformed My Cybersecurity Journey**
+  - A Deep Dive into Learning Paths, Streaks, Badges, and Global Ranking  - [Medium](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
+- **Network Fundamentals**
+  - Understanding LAN Topologies, Network Devices, and Security Essentials -[Medium](https://medium.com/@maharkk01/understanding-lan-topologies-network-devices-and-security-essentials-a-comprehensive-guide-39217168d6c3)
 
 ## 🤝 Let's Connect
 
