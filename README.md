@@ -38,7 +38,8 @@ Duration: 6 months
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
-![TryHackMe Badge](TryHackMe_Badges/tryhackmebadge.png)
+![image](https://github.com/user-attachments/assets/1613ae53-c2e5-43d5-87f8-56b470e200b7)
+
  
 🏆= Rank  🚪= Rooms Completed  🎯= Badges Earned
 
