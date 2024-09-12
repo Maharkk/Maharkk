@@ -1,6 +1,9 @@
 # 👨‍💻 Mahar Hassain K K - Cybersecurity Professional
 
-Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC Analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
+Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place. With hands-on experience in tools like Burp Suite, Splunk, and various vulnerability assessment platforms, I'm committed to finding and mitigating threats. Ranked in the top 5% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community.
+
+
+*"This portfolio is a work in progress, and I will continue to update it with new projects, skills, and certifications as I grow in my cybersecurity career."*
 
 ## 🔐 About Me
 
@@ -8,9 +11,11 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 - **Role:** Cybersecurity Professional | SOC Analyst | Penetration Tester
 - **Experience:** 1 years in Cybersecurity
 - **Location:** Kerala, India
+- **Specializations:** VAPT • Security Operations • Threat Hunting • Incident Response • Network Security
 - **Email:** Maharkk01@gmail.com
 - **LinkedIn:** [Maharkk](https://www.linkedin.com/in/maharkk/)
 - **Medium Blog/Writeups:** [Maharkk](https://medium.com/@maharkk01)
+- **Current Focus:** Working on enhancing my skills in penetration testing, with a strong passion for securing digital environments.
 
 ## Education 🎓
 
@@ -21,7 +26,7 @@ CGPA: 7.41 / 10
 
 ## Experience 💼
 
-**SOC Analyst & Pen Tester Trainee**  
+**Cybersecurity Trainee: Penetration Testing & SOC Analyst**  
 Red Team Hacker Academy, Kerala, India  
 Duration: 6 months  
 
@@ -75,30 +80,37 @@ Duration: 6 months
 ## 🛠️ Skills
 
 ### 🔍 Cybersecurity Skills
-- **Penetration Testing:** Tools like Metasploit, Burp Suite, Nmap, etc.
-- **Threat Hunting:** Threat Hunting techniques and tools
-- **Incident Response:** Experience with incident handling and response
-- **Vulnerability Assessment:** Experience with vulnerability scanning and assessment
-- **Security Operations:** SIEM, SOC monitoring, log analysis
+
+- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark, and John the Ripper.
+- **Vulnerability Assessment:** Experienced with tools such as OpenVAS, Nessus, WPScan, and Arachni.
+- **Threat Hunting:** Skilled in techniques and tools like Splunk, Yara, and Sysmon.
+- **Incident Response:** Hands-on experience with incident handling, response strategies, and recovery processes.
+- **Security Operations:** Expertise in SIEM, SOC monitoring, log analysis, Snort, and security automation.
 
 ### 💻 Programming & Scripting
-- **Languages:** Python, Bash, PowerShell, etc.
+
+- **Languages:**
+  - **Python:** Automation, scripting, and development of security tools.
+  - **Bash:** Scripting in Unix/Linux environments and automation tasks.
+  - **PowerShell:** Windows system administration and scripting.
+  - **JavaScript:** Web application security assessments.
+  - **SQL:** Database querying and security testing.
 
 ### 🖥️ Operating Systems
-- **Linux:** Experience with various Linux distributions
-- **Windows:** Experience with Windows environments
+
+- **Windows:** Extensive experience with various versions for penetration testing, incident response, and system administration.
+- **Linux:** Proficient in distributions such as Kali Linux, Parrot, and Ubuntu for security assessments, scripting, and server management.
 
 ## 🗂️ Projects
 
 ### 1. **[Project Name]**
-   - **Description:** [Brief description of the project and its significance]
-   - **Tools Used:** [List of tools used in the project]
-   - **GitHub Repo:** [Link to the GitHub repository]
-
+   - **Description:** 
+   - **Tools Used:** 
+   - **GitHub Repo:** 
 ### 2. **[Project Name]**
-   - **Description:** [Brief description of the project and its significance]
-   - **Tools Used:** [List of tools used in the project]
-   - **GitHub Repo:** [Link to the GitHub repository]
+   - **Description:**
+   - **Tools Used:** 
+   - **GitHub Repo:** 
 
 ### 3. **[Project Name]**
    - **Description:** [Brief description of the project and its significance]
@@ -111,20 +123,20 @@ Duration: 6 months
   - *zSecurity, Udemy* - 2024
   - [Learn Ethical Hacking From Scratch 2024](https://www.udemy.com/certificate/UC-a9e20ef9-f8e6-4189-a9e8-e121a409daf9/)
 
-- **SOC Level 1** 
+- **Jr Penetration Tester** 
   - *TryHackMe* - 2024
-  - ![SOC Level 1](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
+  - ![Jr Pentester](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
 
-- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** 
+- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** - on process
   - *Red Team Hacker Academy* - 2024
   - ![Certified IT Infrastructure and Cyber SOC Analyst V3](path/to/certificate-image3.png) <!-- Replace with the actual path to your certificate image -->
 
 ## 🏆 Achievements
 
 <details>
-  <summary>Top 7% on TryHackMe</summary>
+  <summary>Top 5% on TryHackMe</summary>
   <ul>
-    <li><strong>Rank:</strong> Achieved a position in the top 7% of users globally.</li>
+    <li><strong>Rank:</strong> Achieved a position in the top 5% of users globally.</li>
     <li><strong>Level:</strong> Currently at Level 8: Hacker, working towards the next level, Omni.</li>
     <li><strong>Highlights:</strong> Successfully completed various learning paths, maintained a consistent streak for over three months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.</li>
   </ul>
@@ -161,20 +173,29 @@ Duration: 6 months
   
 ## 🌱 Learning & Development
 
-I'm always looking to improve my skills and stay updated with the latest trends in cybersecurity. Here are some of the areas I'm currently focusing on:
+I am committed to continuous improvement and staying at the forefront of cybersecurity. In the near future, I plan to focus on the following areas:
 
-- **Advanced Penetration Testing**
-- **Cloud Security**
-- **DevSecOps**
-- **Threat Intelligence**
-- **Attacking and Defending AWS**
+- **Advanced Penetration Testing:** Enhancing skills in sophisticated attack techniques and exploitation methods.
+- **Cloud Security:** Gaining deeper knowledge of securing cloud environments and understanding cloud security best practices.
+- **DevSecOps:** Integrating security practices into DevOps processes to ensure robust and secure software development.
+- **Threat Intelligence:** Developing expertise in gathering, analyzing, and applying threat intelligence to enhance security posture.
+- **Attacking and Defending AWS:** Building skills in securing and attacking Amazon Web Services (AWS) environments to better understand cloud vulnerabilities and defenses.
+
+*I am eager to apply these skills and knowledge to future projects and challenges.*
   
 ## 📜 Blogs & Write-Ups
 
-- **How TryHackMe Transformed My Cybersecurity Journey**
-  - A Deep Dive into Learning Paths, Streaks, Badges, and Global Ranking  - [Medium](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
-- **Network Fundamentals**
-  - Understanding LAN Topologies, Network Devices, and Security Essentials -[Medium](https://medium.com/@maharkk01/understanding-lan-topologies-network-devices-and-security-essentials-a-comprehensive-guide-39217168d6c3)
+Explore more of my insights and analyses on cybersecurity and related topics on my [Medium profile](https://medium.com/@maharkk01). Below are a few highlighted pieces:
+
+- **How TryHackMe Transformed My Cybersecurity Journey**  
+  A deep dive into learning paths, streaks, badges, and global ranking.  
+  [Read More](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
+
+- **Network Fundamentals**  
+  Understanding LAN topologies, network devices, and security essentials.  
+  [Read More](https://medium.com/@maharkk01/understanding-lan-topologies-network-devices-and-security-essentials-a-comprehensive-guide-39217168d6c3)
+
+*For the latest and more comprehensive content, visit my Medium profile regularly for updates.*
 
 ## 🤝 Let's Connect
 
