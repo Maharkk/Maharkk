@@ -104,19 +104,26 @@ Duration: 6 months
 
 ## 🗂️ Projects
 
-### 1. **[Project Name]**
+### 1. **Network Packet Analyzer**
    - **Description:** 
    - **Tools Used:** 
    - **GitHub Repo:** 
-### 2. **[Project Name]**
+### 2. **Password Complexity Checker**
    - **Description:**
    - **Tools Used:** 
    - **GitHub Repo:** 
 
-### 3. **[Project Name]**
+### 3. **Pixel Manipulation for Image Encryption**
    - **Description:** [Brief description of the project and its significance]
    - **Tools Used:** [List of tools used in the project]
    - **GitHub Repo:** [Link to the GitHub repository]
+
+### 4. **Simple Keylogger**
+   - **Description:**
+   - **Tools Used:** 
+   - **GitHub Repo:** 
+
+
 
 ## 🎓 Certifications
 
