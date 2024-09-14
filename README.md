@@ -185,11 +185,11 @@ Duration: 6 months
 
 Explore more of my insights and analyses on cybersecurity and related topics on my [Medium profile](https://medium.com/@maharkk01). Below are a few highlighted pieces:
 
-- **How TryHackMe Transformed My Cybersecurity Journey**  
+- **How TryHackMe Transformed My Cybersecurity Journey - Blog**  
   A deep dive into learning paths, streaks, badges, and global ranking.  
   [Read More](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
 
-- **Network Fundamentals**  
+- **Network Fundamentals - Write-up**  
   Understanding LAN topologies, network devices, and security essentials.  
   [Read More](https://medium.com/@maharkk01/understanding-lan-topologies-network-devices-and-security-essentials-a-comprehensive-guide-39217168d6c3)
 
