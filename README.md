@@ -112,24 +112,22 @@ Duration: 1 months
 
 ## 🗂️ Projects
 
-### 1. **Network Packet Analyzer**
-   - **Description:** 
-   - **Tools Used:** 
-   - **GitHub Repo:** 
-### 2. **Password Complexity Checker**
-   - **Description:**
-   - **Tools Used:** 
-   - **GitHub Repo:** 
+### 1. **Pixel Manipulation for Image Encryption**
+   - **Description:** Developed a simple image encryption tool using pixel manipulation techniques. The tool allows users to encrypt and decrypt images by performing operations like swapping pixel values or applying a basic XOR operation to each pixel. This project demonstrates basic image encryption and decryption methods, showcasing practical applications of pixel-level manipulations in image security.
+   - **Tools Used:** Python, PIL (Pillow), NumPy
+   - **GitHub Repo:** [GitHub repository](https://github.com/Maharkk/PRODIGY_CS_02.git)
 
-### 3. **Pixel Manipulation for Image Encryption**
-   - **Description:** [Brief description of the project and its significance]
-   - **Tools Used:** [List of tools used in the project]
-   - **GitHub Repo:** [Link to the GitHub repository]
+### 2. **Network Packet Analyzer**
+   - **Description:** Developed a packet sniffer tool that captures and analyzes network packets, displaying relevant information such as source and destination IP addresses, protocols, and payload data. The tool ensures ethical use by including a disclaimer and obtaining user consent before starting packet capture. This project demonstrates practical skills in network monitoring and packet analysis for educational purposes.
+   - **Tools Used:** Python, Scapy
+   - **GitHub Repo:** [GitHub repository](https://github.com/Maharkk/PRODIGY_CS_05.git)
 
-### 4. **Simple Keylogger**
-   - **Description:**
-   - **Tools Used:** 
-   - **GitHub Repo:** 
+
+### 3. **Caesar Cipher Implementation**
+   - **Description:** Created a Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text. The program allows users to input a message and a shift value to perform both encryption and decryption operations. This tool demonstrates the basic principles of classical encryption techniques and provides a practical example of how to apply the Caesar Cipher in text processing.
+   - **Tools Used:** Python
+   - **GitHub Repo:** [GitHub repository](https://github.com/Maharkk/PRODIGY_CS_01.git)
+
 
 ## 🎓 Certifications
 
