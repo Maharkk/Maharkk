@@ -151,43 +151,27 @@ Duration: 1 months
 
 ## 🏆 Achievements
 
-<details>
-  <summary>Top 5% on TryHackMe</summary>
-  <ul>
-    <li><strong>Rank:</strong> Achieved a position in the top 5% of users globally.</li>
-    <li><strong>Level:</strong> Currently at Level 8: Hacker, working towards the next level, Omni.</li>
-    <li><strong>Highlights:</strong> Successfully completed various learning paths, maintained a consistent streak for over three months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.</li>
-  </ul>
-</details>
+### Top 5% on TryHackMe
+- **Rank:** Achieved a position in the top 5% of users globally.
+- **Level:** Currently at Level 8: Hacker, working towards the next level, Omni.
+- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over three months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
 
-<details>
-  <summary>UHRS (Universal Human Relevance System)</summary>
-  <ul>
-    <li><strong>Tasks Completed:</strong> Over 5,000 tasks.</li>
-    <li><strong>Skills Demonstrated:</strong> Data analysis, security, and attention to detail.</li>
-    <li><strong>Recognition:</strong> Received incentives for the successful completion of bug bounties and data labeling tasks, showcasing my commitment to meticulous work.</li>
-  </ul>
-</details>
+### UHRS (Universal Human Relevance System)
+- **Tasks Completed:** Over 5,000 tasks.
+- **Skills Demonstrated:** Data analysis, security, and attention to detail.
+- **Recognition:** Received incentives for the successful completion of bug bounties and data labeling tasks, showcasing my commitment to meticulous work.
 
-<details>
-  <summary>EPAM Systems</summary>
-  <ul>
-    <li><strong>Internship Duration:</strong> 6 months.</li>
-    <li><strong>Focus Areas:</strong> Cloud technologies and DevOps practices.</li>
-    <li><strong>Skills Acquired:</strong> Enhanced proficiency in Agile Methods, AWS, Docker, Terraform, and other cloud and DevOps tools.</li>
-    <li><strong>Experience:</strong> Gained hands-on experience and contributed to real-world projects, improving my understanding of cloud infrastructure and development practices.</li>
-  </ul>
-</details>
+### EPAM Systems
+- **Internship Duration:** 6 months.
+- **Focus Areas:** Cloud technologies and DevOps practices.
+- **Skills Acquired:** Enhanced proficiency in Agile Methods, AWS, Docker, Terraform, and other cloud and DevOps tools.
+- **Experience:** Gained hands-on experience and contributed to real-world projects, improving my understanding of cloud infrastructure and development practices.
 
-<details>
-  <summary>TCS NQT (National Qualifier Test)</summary>
-  <ul>
-    <li><strong>Conducted By:</strong> Tata Consultancy Services (TCS).</li>
-    <li><strong>Assessment Areas:</strong> Quantitative and verbal abilities, programming logic, and coding skills.</li>
-    <li><strong>Score:</strong> 1262.58/1800 (70.14%).</li>
-    <li><strong>Overview:</strong> The TCS NQT provides a comprehensive evaluation for candidates, testing their skills and potential in various areas relevant to the tech industry.</li>
-  </ul>
-</details>
+### TCS NQT (National Qualifier Test)
+- **Conducted By:** Tata Consultancy Services (TCS).
+- **Assessment Areas:** Quantitative and verbal abilities, programming logic, and coding skills.
+- **Score:** 1262.58/1800 (70.14%).
+- **Overview:** The TCS NQT provides a comprehensive evaluation for candidates, testing their skills and potential in various areas relevant to the tech industry.
 
 ## 📜 Blogs & Write-Ups
 
@@ -197,9 +181,18 @@ Explore more of my insights and analyses on cybersecurity and related topics on 
   A deep dive into learning paths, streaks, badges, and global ranking.  
   [Read More](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
 
-- **Network Fundamentals - Write-up**  
-  Understanding LAN topologies, network devices, and security essentials.  
-  [Read More](https://medium.com/@maharkk01/understanding-lan-topologies-network-devices-and-security-essentials-a-comprehensive-guide-39217168d6c3)
+- **Unmasking Cyber Threats: Phishing, DoS Attacks, and Android RATs - Blog**  
+  Explore real-world examples of phishing, DoS attacks, and Android RATs to understand how cyber threats operate and learn essential tips for staying safe online.  
+  [Read More]() **link needs to be updated...**
+
+
+- **Privilege Escalation - Write-up**  
+  Exploring Reverse and Bind Shells with Netcat and Socat.  
+  [Read More](https://medium.com/@maharkk01/exploring-reverse-and-bind-shells-with-netcat-and-socat-privilege-escalation-part-1-d2d060beda0e)
+
+- **Penetration Testing Fundamentals - Write-up**  
+  Navigating the Ethics and Methodologies of Penetration Testing.  
+  [Read More](https://medium.com/@maharkk01/navigating-the-ethics-and-methodologies-of-penetration-testing-fundamentals-73f08ffe3607)
 
 *For the latest and more comprehensive content, visit my Medium profile regularly for updates.*
 
