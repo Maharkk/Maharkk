@@ -34,6 +34,14 @@ Duration: 6 months
 - Conducted vulnerability assessments and simulated attacks to evaluate system security.
 - Worked with various tools and techniques for threat detection, analysis, and ethical hacking.
 
+**Cybersecurity Intern**  
+Prodigy InfoTech (Remote)  
+Duration: 1 months 
+
+- Working on practical cybersecurity projects, including encryption tools, password complexity checkers, keyloggers, and network packet analyzers.
+- Gaining hands-on experience in encryption techniques, network security, and ethical hacking.
+- Contributing to the development of security tools and techniques for real-world application.
+  
 ## 🏆 TryHackMe
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
