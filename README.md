@@ -46,7 +46,7 @@ Duration: 1 months
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
-![image](https://github.com/user-attachments/assets/1613ae53-c2e5-43d5-87f8-56b470e200b7)
+![image](https://github.com/user-attachments/assets/be823e84-8972-4db8-b097-21c3f73746e2)
 
  
 🏆= Rank  🚪= Rooms Completed  🎯= Badges Earned
@@ -83,6 +83,12 @@ Duration: 1 months
             <img src="TryHackMe_Badges/hashcracker.svg" alt="TryHackMe Hash Cracker Badge" height="120">
         </a>
         <figcaption>Hash Cracker</figcaption>
+    <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/hash-cracker">
+            <img src="TryHackMe_Badges/burpsuite.svg" alt="TryHackMe Burp Suite Badge" height="120">
+        </a>
+        <figcaption>Burp Suite</figcaption>
+    </figure>
     </figure>
 </div>
 
@@ -141,7 +147,7 @@ Duration: 1 months
 
 - **Jr Penetration Tester** - On Process
   - *TryHackMe* - 2024
-  - ![Certificate](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
+  - ![Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S02KMVWSLL.png) <!-- Replace with the actual path to your certificate image -->
 
 - **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** - on process
   - *Red Team Hacker Academy* - 2024
@@ -151,8 +157,8 @@ Duration: 1 months
 
 ### Top 5% on TryHackMe
 - **Rank:** Achieved a position in the top 5% of users globally.
-- **Level:** Currently at Level 8: Hacker, working towards the next level, Omni.
-- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over three months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
+- **Level:** Currently at Level 9: Omni, working towards the next level, Wizard.
+- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Four months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
 
 ### UHRS (Universal Human Relevance System)
 - **Tasks Completed:** Over 5,000 tasks.
