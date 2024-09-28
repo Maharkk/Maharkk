@@ -137,6 +137,10 @@ Duration: 1 months
 
 ## 🎓 Certifications
 
+- **Jr Penetration Tester**
+  - *TryHackMe* - 2024
+  - [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S02KMVWSLL.png)
+
 - **Learn Ethical Hacking From Scratch 2024** 
   - *zSecurity, Udemy* - 2024
   - [Certificate](https://www.udemy.com/certificate/UC-a9e20ef9-f8e6-4189-a9e8-e121a409daf9/)
@@ -144,10 +148,6 @@ Duration: 1 months
 - **SOC Level 1** - On Process
   - *TryHackMe* - 2024
   - ![Certificate](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
-
-- **Jr Penetration Tester** - On Process
-  - *TryHackMe* - 2024
-  - ![Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S02KMVWSLL.png) <!-- Replace with the actual path to your certificate image -->
 
 - **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** - on process
   - *Red Team Hacker Academy* - 2024
