@@ -1,6 +1,6 @@
 # 👨‍💻 Mahar Hassain K K - Cybersecurity Professional
 
-Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place. With hands-on experience in tools like Burp Suite, Splunk, and various vulnerability assessment platforms, I'm committed to finding and mitigating threats. Ranked in the top 5% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community.
+Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place. With hands-on experience in tools like Burp Suite, Splunk, and various vulnerability assessment platforms, I'm committed to finding and mitigating threats. Ranked in the top 3% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community.
 
 
 *"This portfolio is a work in progress, and I will continue to update it with new projects, skills, and certifications as I grow in my cybersecurity career."*
@@ -96,7 +96,7 @@ Duration: 1 months
 
 ### 🔍 Cybersecurity Skills
 
-- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark, and John the Ripper.
+- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark,NetworkMiner and John the Ripper.
 - **Vulnerability Assessment:** Experienced with tools such as OpenVAS, Nessus, WPScan, and Arachni.
 - **Threat Hunting:** Skilled in techniques and tools like Splunk, Yara, and Sysmon.
 - **Incident Response:** Hands-on experience with incident handling, response strategies, and recovery processes.
@@ -155,9 +155,9 @@ Duration: 1 months
 
 ## 🏆 Achievements
 
-### Top 5% on TryHackMe
-- **Rank:** Achieved a position in the top 5% of users globally.
-- **Level:** Currently at Level 9: Omni, working towards the next level, Wizard.
+### Top 3% on TryHackMe
+- **Rank:** Achieved a position in the top 3% of users globally.
+- **Level:** Currently at Level 10: Wizard, working towards the next level, Master.
 - **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Four months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
 
 ### UHRS (Universal Human Relevance System)
