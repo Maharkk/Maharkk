@@ -46,7 +46,8 @@ Duration: 1 months
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
-![image](https://github.com/user-attachments/assets/be823e84-8972-4db8-b097-21c3f73746e2)
+![image](https://github.com/user-attachments/assets/db1892ed-47f1-4258-9855-1e40b928b054)
+
 
  
 🏆= Rank  🚪= Rooms Completed  🎯= Badges Earned
@@ -96,7 +97,7 @@ Duration: 1 months
 
 ### 🔍 Cybersecurity Skills
 
-- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark,NetworkMiner and John the Ripper.
+- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark, NetworkMiner and John the Ripper.
 - **Vulnerability Assessment:** Experienced with tools such as OpenVAS, Nessus, WPScan, and Arachni.
 - **Threat Hunting:** Skilled in techniques and tools like Splunk, Yara, and Sysmon.
 - **Incident Response:** Hands-on experience with incident handling, response strategies, and recovery processes.
