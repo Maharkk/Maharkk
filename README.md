@@ -191,14 +191,10 @@ Explore more of my insights and analyses on cybersecurity and related topics on 
   [Read More](https://medium.com/@maharkk01/unmasking-cyber-threats-phishing-dos-attacks-and-android-rats-3a13baa78373)
 
 
-- **Privilege Escalation - Write-up**  
-  Exploring Reverse and Bind Shells with Netcat and Socat.  
-  [Read More](https://medium.com/@maharkk01/exploring-reverse-and-bind-shells-with-netcat-and-socat-privilege-escalation-part-1-d2d060beda0e)
-
-- **Penetration Testing Fundamentals - Write-up**  
-  Navigating the Ethics and Methodologies of Penetration Testing.  
-  [Read More](https://medium.com/@maharkk01/navigating-the-ethics-and-methodologies-of-penetration-testing-fundamentals-73f08ffe3607)
-
+- **Exploiting the NAPPING 1.0.1 VulnHub Machine: A Comprehensive Guide**  
+  The successful exploitation of the NAPPING: 1.0.1 VulnHub machine illustrates the intricacies of penetration testing
+  [Read More](https://medium.com/@maharkk01/exploiting-the-napping-1-0-1-vulnhub-machine-a-comprehensive-guide-1ef5e51ca53c)
+  
 *For the latest and more comprehensive content, visit my Medium profile regularly for updates.*
 
 ## 🌱 Learning & Development
