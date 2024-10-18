@@ -1,6 +1,8 @@
-# 👨‍💻 Mahar Hassain K K - Cybersecurity Professional
+# 👨‍💻 Mahar Hassain K K - Cybersecurity Analyst
 
-Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a strong background in security operations, penetration testing, and SOC analysis. My journey in cybersecurity is driven by a continuous thirst for knowledge and a dedication to making the digital world a safer place. With hands-on experience in tools like Burp Suite, Splunk, and various vulnerability assessment platforms, I'm committed to finding and mitigating threats. Ranked in the top 3% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community.
+Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional specializing in SOC analysis, with a strong background in security operations and penetration testing. My journey in cybersecurity is fueled by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
+
+With hands-on experience in monitoring and responding to security incidents using tools like Splunk and various vulnerability assessment platforms, I am committed to identifying and mitigating threats. Ranked in the top 3% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community, particularly in the realm of SOC operations.
 
 
 *"This portfolio is a work in progress, and I will continue to update it with new projects, skills, and certifications as I grow in my cybersecurity career."*
@@ -8,14 +10,15 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 ## 🔐 About Me
 
 - **Name:** Mahar Hassain K K
-- **Role:** Cybersecurity Professional | SOC Analyst | Penetration Tester
+- **Role:** Cybersecurity Analyst | SOC Analyst | Penetration Tester
 - **Experience:** 1 years in Cybersecurity
 - **Location:** Kerala, India
-- **Specializations:** VAPT • Security Operations • Threat Hunting • Incident Response • Network Security
+- **Specializations:** Security Operations Center • SIEM • VAPT • Compliance Management • Cyber Threat Intelligence (CTI)
+
 - **Email:** Maharkk01@gmail.com
 - **LinkedIn:** [Maharkk](https://www.linkedin.com/in/maharkk/)
 - **Medium Blog/Writeups:** [Maharkk](https://medium.com/@maharkk01)
-- **Current Focus:** Working on enhancing my skills in penetration testing, with a strong passion for securing digital environments.
+- **Current Focus:** Working on enhancing my skills in SOC analysis, with a strong passion for safeguarding critical systems and responding to security incidents.
 
 ## Education 🎓
 
@@ -26,7 +29,7 @@ CGPA: 7.41 / 10
 
 ## Experience 💼
 
-**Cybersecurity Trainee: Penetration Testing & SOC Analyst**  
+**Cybersecurity Trainee: SOC Analyst**  
 Red Team Hacker Academy, Kerala, India  
 Duration: 6 months  
 
@@ -136,6 +139,18 @@ Duration: 1 months
 
 ## 🎓 Certifications
 
+- **Certified SOC Analyst (CSA)** - On Process
+  - *EC-Council* - 2024
+  - [Certificate]() 
+
+- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)**
+  - *Red Team Hacker Academy* - 2024
+  - [Certificate](Certificates/CICSA.png) 
+
+- **SOC Level 1** - On Process
+  - *TryHackMe* - 2024
+  - [Certificate]() 
+
 - **Jr Penetration Tester**
   - *TryHackMe* - 2024
   - [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S02KMVWSLL.png)
@@ -144,13 +159,9 @@ Duration: 1 months
   - *zSecurity, Udemy* - 2024
   - [Certificate](https://www.udemy.com/certificate/UC-a9e20ef9-f8e6-4189-a9e8-e121a409daf9/)
 
-- **SOC Level 1** - On Process
-  - *TryHackMe* - 2024
-  - ![Certificate](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
 
-- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)**
-  - *Red Team Hacker Academy* - 2024
-  - [Certificate](Certificates/CICSA.png) <!-- Replace with the actual path to your certificate image -->
+
+
 
 ## 🏆 Achievements
 
@@ -199,6 +210,7 @@ Explore more of my insights and analyses on cybersecurity and related topics on 
 
 I am committed to continuous improvement and staying at the forefront of cybersecurity. In the near future, I plan to focus on the following areas:
 
+- **SOC Operations:** Deepening my understanding of Security Operations Center (SOC) processes, including incident detection, analysis, and response.
 - **Advanced Penetration Testing:** Enhancing skills in sophisticated attack techniques and exploitation methods.
 - **Cloud Security:** Gaining deeper knowledge of securing cloud environments and understanding cloud security best practices.
 - **DevSecOps:** Integrating security practices into DevOps processes to ensure robust and secure software development.
