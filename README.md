@@ -148,9 +148,9 @@ Duration: 1 months
   - *TryHackMe* - 2024
   - ![Certificate](path/to/certificate-image2.png) <!-- Replace with the actual path to your certificate image -->
 
-- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)** - on process
+- **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)**
   - *Red Team Hacker Academy* - 2024
-  - ![Certificate](path/to/certificate-image3.png) <!-- Replace with the actual path to your certificate image -->
+  - [Certificate](Certificates/CICSA.png) <!-- Replace with the actual path to your certificate image -->
 
 ## 🏆 Achievements
 
