@@ -181,12 +181,6 @@ Duration: 1 months
 - **Skills Acquired:** Enhanced proficiency in Agile Methods, AWS, Docker, Terraform, and other cloud and DevOps tools.
 - **Experience:** Gained hands-on experience and contributed to real-world projects, improving my understanding of cloud infrastructure and development practices.
 
-### TCS NQT (National Qualifier Test)
-- **Conducted By:** Tata Consultancy Services (TCS).
-- **Assessment Areas:** Quantitative and verbal abilities, programming logic, and coding skills.
-- **Score:** 1262.58/1800 (70.14%).
-- **Overview:** The TCS NQT provides a comprehensive evaluation for candidates, testing their skills and potential in various areas relevant to the tech industry.
-
 ## 📜 Blogs & Write-Ups
 
 Explore more of my insights and analyses on cybersecurity and related topics on my [Medium profile](https://medium.com/@maharkk01). Below are a few highlighted pieces:
