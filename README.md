@@ -189,9 +189,9 @@ Explore more of my insights and analyses on cybersecurity and related topics on 
   A deep dive into learning paths, streaks, badges, and global ranking.  
   [Read More](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
 
-- **Unmasking Cyber Threats: Phishing, DoS Attacks, and Android RATs - Blog**  
-  Explore real-world examples of phishing, DoS attacks, and Android RATs to understand how cyber threats operate and learn essential tips for staying safe online.  
-  [Read More](https://medium.com/@maharkk01/unmasking-cyber-threats-phishing-dos-attacks-and-android-rats-3a13baa78373)
+- **Exploiting PHP Loose Comparison Vulnerabilities: The Magic Hash Attack(Web)**  
+  Explore The Magic Hash Attack exploits PHP's loose comparisons, enabling attackers to bypass security checks using specific hash values.  
+  [Read More](https://medium.com/@maharkk01/exploiting-php-loose-comparison-vulnerabilities-the-magic-hash-attack-web-61e92407d134)
 
 
 - **Exploiting the NAPPING 1.0.1 VulnHub Machine: A Comprehensive Guide**  
