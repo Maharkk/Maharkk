@@ -94,9 +94,15 @@ Duration: 1 months
        <figure style="display: inline-block; text-align: center; margin: 10px;">
         <a href="![image](https://github.com/user-attachments/assets/3b6bc450-32dc-4436-82f0-78ad242449e7)
 ">
-            <img src="TryHackMe_Badges/burpsuite.svg" alt="TryHackMe Burp Suite Badge" height="120">
+            <img src="TryHackMe_Badges/shieldapprentice.svg" alt="TryHackMe FlareVM Badge" height="120">
         </a>
         <figcaption>FlareVM</figcaption>
+    </figure>
+        <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/hash-cracker">
+            <img src="TryHackMe_Badges/phishing.svg" alt="TryHackMe Burp Suite Badge" height="120">
+        </a>
+        <figcaption>Phishing</figcaption>
     </figure>
     </figure>
 </div>
