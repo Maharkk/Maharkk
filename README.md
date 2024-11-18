@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional specializing in SOC analysis, with a strong background in security operations and penetration testing. My journey in cybersecurity is fueled by a continuous thirst for knowledge and a dedication to making the digital world a safer place.
 
-With hands-on experience in monitoring and responding to security incidents using tools like Splunk and various vulnerability assessment platforms, I am committed to identifying and mitigating threats. Ranked in the top 3% on TryHackMe, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community, particularly in the realm of SOC operations.
+With hands-on experience in monitoring and responding to security incidents using tools like Splunk and various vulnerability assessment platforms, I am committed to identifying and mitigating threats. Ranked in the top 1% on TryHackMe and among the top 50 in the UAE, I aim to contribute to meaningful cybersecurity projects and share knowledge with the community, particularly in the realm of SOC operations.
 
 
 *"This portfolio is a work in progress, and I will continue to update it with new projects, skills, and certifications as I grow in my cybersecurity career."*
@@ -31,7 +31,7 @@ CGPA: 7.41 / 10
 
 **Cybersecurity Trainee: SOC Analyst**  
 Red Team Hacker Academy, Kerala, India  
-Duration: 6 months  
+Duration: 7 months  
 
 - Gained hands-on experience in security operations, monitoring, incident response, and penetration testing.
 - Conducted vulnerability assessments and simulated attacks to evaluate system security.
@@ -90,6 +90,13 @@ Duration: 1 months
             <img src="TryHackMe_Badges/burpsuite.svg" alt="TryHackMe Burp Suite Badge" height="120">
         </a>
         <figcaption>Burp Suite</figcaption>
+    </figure>
+       <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="![image](https://github.com/user-attachments/assets/3b6bc450-32dc-4436-82f0-78ad242449e7)
+">
+            <img src="TryHackMe_Badges/burpsuite.svg" alt="TryHackMe Burp Suite Badge" height="120">
+        </a>
+        <figcaption>FlareVM</figcaption>
     </figure>
     </figure>
 </div>
