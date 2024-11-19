@@ -12,12 +12,12 @@ With hands-on experience in monitoring and responding to security incidents usin
 - **Name:** Mahar Hassain K K
 - **Role:** Cybersecurity Analyst | SOC Analyst | Penetration Tester
 - **Experience:** 1 years in Cybersecurity
-- **Location:** Kerala, India
+- **Location:** Dubai, United Arab Emirates
 - **Specializations:** Security Operations Center • SIEM • VAPT • Compliance Management • Cyber Threat Intelligence (CTI)
 
 - **Email:** Maharkk01@gmail.com
-- **LinkedIn:** [Maharkk](https://www.linkedin.com/in/maharkk/)
-- **Medium Blog/Writeups:** [Maharkk](https://medium.com/@maharkk01)
+- **LinkedIn:** [LinkedIn-Profile](https://www.linkedin.com/in/maharkk/)
+- **Medium Blog/Writeups:** [Medium-Maharkk](https://medium.com/@maharkk01)
 - **Current Focus:** Working on enhancing my skills in SOC analysis, with a strong passion for safeguarding critical systems and responding to security incidents.
 
 ## Education 🎓
