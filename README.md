@@ -49,7 +49,8 @@ Duration: 1 months
 
 - **Profile:** [TryHackMe - Maharkk](https://tryhackme.com/p/Maharkk)
 
-![image](https://github.com/user-attachments/assets/7fdb061c-0c8d-44f1-ae70-6a0dce376fe6)
+![image](https://github.com/user-attachments/assets/35b0585e-d254-4f60-9a87-9ac6a7ffc13c)
+
 
 🏆= Rank 🔥= Streak 🏅= Badges Earned 🚪= Rooms Completed 
 
@@ -110,12 +111,30 @@ Duration: 1 months
 ## 🛠️ Skills
 
 ### 🔍 Cybersecurity Skills
+# Cybersecurity Skills
 
-- **Penetration Testing:** Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark, NetworkMiner and John the Ripper.
-- **Vulnerability Assessment:** Experienced with tools such as OpenVAS, Nessus, WPScan, and Arachni.
-- **Threat Hunting:** Skilled in techniques and tools like Splunk, Yara, and Sysmon.
-- **Incident Response:** Hands-on experience with incident handling, response strategies, and recovery processes.
-- **Security Operations:** Expertise in SIEM, SOC monitoring, log analysis, Snort, and security automation.
+## Security Operations
+- Expertise in SIEM, SOC monitoring, log analysis, Snort, osquery, and security automation.
+
+## Threat Hunting
+- Skilled in techniques and tools like Splunk, Yara, Sysmon, Wazuh, Zeek, and Brim.
+
+## Incident Response
+- Hands-on experience with incident handling, response strategies, threat detection, and recovery processes.
+
+## Cyber Threat Intelligence
+- Proficient in identifying, analyzing, and responding to emerging threats.
+
+## Vulnerability Assessment
+- Experienced with tools such as OpenVAS, Nessus, WPScan, and Arachni.
+
+## Penetration Testing
+- Proficient in Metasploit Framework, Burp Suite, Nmap, Wireshark, NetworkMiner, and John the Ripper.
+
+## Additional Skills
+- Malware Analysis, Digital Forensics, Phishing Analysis, and Compliance Management.
+
+
 
 ### 💻 Programming & Scripting
 
@@ -154,7 +173,7 @@ Duration: 1 months
 
 - **Certified SOC Analyst (CSA)** - On Process
   - *EC-Council* - 2024
-  - [Certificate]() 
+  - [Certificate](Certificates/CSA.png) 
 
 - **Certified IT Infrastructure and Cyber SOC Analyst V3 (CICSA)**
   - *Red Team Hacker Academy* - 2024
@@ -178,10 +197,10 @@ Duration: 1 months
 
 ## 🏆 Achievements
 
-### Top 3% on TryHackMe
-- **Rank:** Achieved a position in the top 3% of users globally.
-- **Level:** Currently at Level 10: Wizard, working towards the next level, Master.
-- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Four months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
+### Top 1% on TryHackMe
+- **Rank:** Achieved a position in the top 1% of users globally and among the top 50 in the UAE.
+- **Level:** Currently at max Level: GOD.
+- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Five months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
 
 ### UHRS (Universal Human Relevance System)
 - **Tasks Completed:** Over 5,000 tasks.
