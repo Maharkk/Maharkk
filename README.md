@@ -206,7 +206,7 @@ Duration: 1 months
 ### Top 1% on TryHackMe
 - **Rank:** Achieved a position in the top 1% of users globally and among the top 50 in the UAE.
 - **Level:** Currently at max Level: GOD.
-- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Five months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
+- **Highlights:** Successfully completed various learning paths, maintained a consistent streak for over Four months, and earned numerous badges for achievements and milestones. TryHackMe's hands-on challenges have been pivotal in advancing my cybersecurity skills.
 
 ### UHRS (Universal Human Relevance System)
 - **Tasks Completed:** Over 5,000 tasks.
