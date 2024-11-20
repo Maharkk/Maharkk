@@ -171,7 +171,7 @@ Duration: 1 months
 
 ## 🎓 Certifications
 
-- **Certified SOC Analyst (CSA)** - On Process
+- **Certified SOC Analyst (CSA)**
   - *EC-Council* - 2024
   - [Certificate](Certificates/CSA.png) 
 
@@ -179,9 +179,9 @@ Duration: 1 months
   - *Red Team Hacker Academy* - 2024
   - [Certificate](Certificates/CICSA.png) 
 
-- **SOC Level 1** - On Process
+- **SOC Level 1**
   - *TryHackMe* - 2024
-  - [Certificate]() 
+  - [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZGCCDBP3SI.pdf) 
 
 - **Jr Penetration Tester**
   - *TryHackMe* - 2024
