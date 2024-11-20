@@ -105,6 +105,12 @@ Duration: 1 months
         </a>
         <figcaption>Phishing</figcaption>
     </figure>
+      <figure style="display: inline-block; text-align: center; margin: 10px;">
+        <a href="https://tryhackme.com/Maharkk/badges/hash-cracker">
+            <img src="TryHackMe_Badges/boogeyman3.svg" alt="TryHackMe Burp Suite Badge" height="120">
+        </a>
+        <figcaption>Boogeyman</figcaption>
+    </figure>
     </figure>
 </div>
 
