@@ -1,4 +1,4 @@
-# 👨‍💻 Mahar Hassain K K — Cybersecurity / SOC Analyst  
+# 👨‍💻 Mahar Hassain K K - Cybersecurity / SOC Analyst  
 
 Welcome to my GitHub portfolio! I’m a cybersecurity professional specializing in **Security Operations (SOC)** with hands-on experience in **SIEM monitoring, log analysis, threat detection, and incident response**. I focus on understanding attacker behavior, identifying suspicious activity, and improving detection workflows across enterprise environments.
 
@@ -27,7 +27,7 @@ Ranked in the **Top 1% globally on TryHackMe**, I continuously sharpen my skills
 ## 🎓 Education  
 
 **B.Tech in Computer Science (Honors), Cybersecurity Major**  
-Lovely Professional University — Punjab, India  
+Lovely Professional University - Punjab, India  
 **Graduated:** 2023  
 **CGPA:** 7.41 / 10  
 
@@ -35,7 +35,7 @@ Lovely Professional University — Punjab, India
 
 ## 💼 Experience  
 
-### **Cybersecurity Trainee — SOC Analyst**  
+### **Cybersecurity Trainee - SOC Analyst**  
 **Red Team Hacker Academy, Kerala, India**  
 **Duration:** 7 months  
 
@@ -100,15 +100,15 @@ Lovely Professional University — Punjab, India
 ---
 
 ### 💻 **Programming & Scripting**  
-- **Python** — automation, tooling, security scripts  
-- **Bash** — Linux scripting  
-- **PowerShell** — Windows administration & automation  
-- **JavaScript** — basic understanding for web security  
-- **SQL** — querying and database security basics  
+- **Python** - automation, tooling, security scripts  
+- **Bash** - Linux scripting  
+- **PowerShell** - Windows administration & automation  
+- **JavaScript** - basic understanding for web security  
+- **SQL** - querying and database security basics  
 
 ### 🖥️ **Operating Systems**  
-- **Windows** — administration, IR tasks  
-- **Linux** — Kali / Parrot / Ubuntu for security labs and scripting  
+- **Windows** - administration, IR tasks  
+- **Linux** - Kali / Parrot / Ubuntu for security labs and scripting  
 
 ---
 
@@ -152,11 +152,11 @@ Lovely Professional University — Punjab, India
 
 ## 🎓 Certifications  
 
-- **Certified SOC Analyst (CSA)** — EC-Council  
-- **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** — Red Team Hacker Academy  
-- **SOC Level 1 and Level 2** — TryHackMe  
-- **Jr Penetration Tester** — TryHackMe  
-- **Ethical Hacking From Scratch** — zSecurity / Udemy  
+- **Certified SOC Analyst (CSA)** - EC-Council  
+- **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)** - Red Team Hacker Academy  
+- **SOC Level 1 and Level 2** - TryHackMe  
+- **Jr Penetration Tester** - TryHackMe  
+- **Ethical Hacking From Scratch** - zSecurity / Udemy  
 
 ---
 
@@ -170,7 +170,7 @@ Lovely Professional University — Punjab, India
 ### **UHRS (Universal Human Relevance System)**  
 - Completed **5,000+ tasks**  
 - Demonstrated high accuracy, consistency, and analytical thinking  
-- Reinforced attention to detail — valuable for log analysis & SOC roles  
+- Reinforced attention to detail - valuable for log analysis & SOC roles  
 
 ---
 
@@ -183,10 +183,10 @@ Explore more on my Medium profile:
 - **How TryHackMe Transformed My Cybersecurity Journey**  
   [Read More](https://medium.com/@maharkk01/how-tryhackme-transformed-my-cybersecurity-journey-a-deep-dive-into-learning-paths-streaks-eef1d6cdaa5a)
 
-- **Exploiting PHP Loose Comparison Vulnerabilities — Magic Hash Attack**  
+- **Exploiting PHP Loose Comparison Vulnerabilities - Magic Hash Attack**  
   [Read More](https://medium.com/@maharkk01/exploiting-php-loose-comparison-vulnerabilities-the-magic-hash-attack-web-61e92407d134)
 
-- **Exploiting the NAPPING 1.0.1 VulnHub Machine — Full Walkthrough**  
+- **Exploiting the NAPPING 1.0.1 VulnHub Machine - Full Walkthrough**  
   [Read More](https://medium.com/@maharkk01/exploiting-the-napping-1-0-1-vulnhub-machine-a-comprehensive-guide-1ef5e51ca53c)
 
 ---
